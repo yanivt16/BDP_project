@@ -11,7 +11,7 @@ This work includes the following files:
  * `en_df.csv` - The database translated to English. The file is too heavy for GitHub so we uploaded it to Google Drive.
  * `city_data.csv`, `s_e_2019.csv` - Additional Israeli cities database provided by the Israel Central Bureau of Statistics that shows the population number and socioeconomic cluster of every city.
 
-###Non of the databases above need to be downloaded locally, the code calls them from a shared and open folder.
+<b>Non of the databases above need to be downloaded locally, the code calls them from a shared and open folder.</b>
 
 ## Group members
  * Yaniv Turdjman - Data adjustments and translation.
