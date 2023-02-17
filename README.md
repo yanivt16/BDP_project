@@ -1,7 +1,17 @@
 # Final project for Big Data Platforms - Israel Police Data Analysis
 
 ## Overview
-Analysis of crime in the world in general and in Israel, in particular, is the subject of many studies that examine trends in crime, its causes, and different characteristics or features of crime. In this work, we take the database of the Israel Police which is open to the general public and make additions and corrections to the data so that they fit our work and the analysis we are interested in doing.
-In this work, we look at a general data analysis that mainly refers to the segmentation of the cities in Israel and the segmentation of the types of crime characterized by the Israel Police. In addition, we define a "crime score" according to the severity and quantity of the criminal cases for each city according to the population and look for various connections and correlations between the characteristics of the cities such as socioeconomic ranking or geographical location in the country.
-Finally, we try to predict the trends in the change in crime for 2023 and define which are the cities with the biggest or the smallest change in crime to ultimately give recommendations to the Israel Police and law enforcement agencies on how to properly invest their efforts and resources to make life safer in the State of Israel.
-Throughout the analysis process, we maintained a professional and academic approach, ensuring that all steps were taken with a focus on accuracy and rigor. The resulting analysis provides valu- able insights into the distribution and types of offenses occurring in various settlements in Israel.
+In this work, we analyze the database given by the Israeli Police by using PySpark.
+This work includes the following files:
+ * 'PolicieDataAnalysis.ipynb' - Python notebook with the code we used for the entire work (runs best in Google Colab).
+ * 'Israel Police Data Analysis.pdf' - Final paper that documents our work and conclusion.
+ * 'Israel Police Data Analysis Overleaf.zip' - Final paper LATEX zip.
+ * 'Israeli Police data Project presentation.pptx' - Project presentation that was shown in class.
+ * '-3-2022-.csv' - The Israeli Police database updated to the 3rd quarter of 2022.
+ * 'df5.parquet' - The database translated to English.
+ * 'city_data.csv' - Additional Israeli cities database provided by the Israel Central Bureau of Statistics.
+
+## Group members
+ * Yaniv Turdjman - Data adjustments and translation.
+ * Baruch Hanya - Basic analysis and visualization.
+ * Adar Assif - Prediction algorithms and "crime score" establishment.
