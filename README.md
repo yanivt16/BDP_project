@@ -9,7 +9,7 @@ This work includes the following files:
  * `Israeli Police data Project presentation.pptx` - Project presentation that was shown in class.
  * `-3-2022-.csv` - The Israeli Police database updated to the 3rd quarter of 2022.
  * `df5.parquet` - The database translated to English.
- * `city_data.csv` - Additional Israeli cities database provided by the Israel Central Bureau of Statistics.
+ * `city_data.csv`,`s_e_2019.csv` - Additional Israeli cities database provided by the Israel Central Bureau of Statistics the shows population number and socioeconomi cluster of every city.
 
 ## Group members
  * Yaniv Turdjman - Data adjustments and translation.
